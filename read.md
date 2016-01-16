@@ -7,3 +7,7 @@
 - [ ] [Hunger Makes me Feel Awful](http://smile.amazon.com/Hunger-Makes-Me-Modern-Girl/dp/B015WM7CHY/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=1451844369&sr=8-1) - Carrie Brownstein
 - [ ] Just Kids - Patti Smith
 - [ ] Add books from this [list](http://www.huffingtonpost.com/2015/05/19/recent-books-women-should-read_n_7314166.html), read them all eventually
+
+
+### Articles to read
+- [ ] [What Having a Growth Mindset Really Means](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means?utm_content=buffer41ea4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
