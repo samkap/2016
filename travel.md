@@ -7,7 +7,11 @@
 - [ ] [Cascade Caverns](https://godaytrip.com/spots/cascade-caverns)
 
 #### Non-Texas (US)
-- [ ] Portland & Seattle
+- [ ] Asheville, NC
+- [ ] Pheonix, AZ
+- [ ] Charlotte, NC
+- [ ] Portland, OR
+- [ ] Seattle, WA
 - [ ] New York
 - [ ] California
 - [ ] New Orleans (again!)
