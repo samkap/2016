@@ -21,4 +21,4 @@
 
 #### International
 - [ ] Curaçao (home!)
-- [ ] --Vancouver--
+- [ ] ~~Vancouver~~
