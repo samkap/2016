@@ -2,8 +2,8 @@
 - [ ] Sweet Potato ravioli
 - [X] Beet ravioli
 - [X] Duck fat ramen
-- [ ] lamb merguez with something tomatoe-y
+- [X] lamb merguez with something tomatoe-y
 - [X] Burrata cheese, basil, and tomato naan pizza
 - [X] home-made pasta
-- [ ] pork belly bao
-- [ ] red chili slaw
+- [X] pork belly bao
+- [X] all on [Tableaux](http://www.instagram.com/the_tableaux 
