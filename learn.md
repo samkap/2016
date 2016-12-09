@@ -1,5 +1,5 @@
 ### Learn
 
 - [ ] Get better at the JavaScripts
-- [ ] Portuguese (more!)
+- [X] Portuguese (more!)
 - [ ] Make delicious macaroons
