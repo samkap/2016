@@ -20,10 +20,11 @@
 - [X] Atlanta
 - [X] Raleigh
 - [X] Durham
-- [X] DC
 - [X] The White House
 - [X] Orlando
+- [X] Savannah
 - [ ] Gainesville
+- [ ] Denver
 
 
 #### International
