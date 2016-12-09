@@ -16,9 +16,17 @@
 - [ ] California
 - [X] New Orleans (again!)
 - [X] DC
-- [ ] Maryland
+- [X] Maryland
 - [X] Atlanta
+- [X] Raleigh
+- [X] Durham
+- [X] DC
+- [X] The White House
+- [X] Orlando
+- [ ] Gainesville
+
 
 #### International
-- [ ] Curaçao (home!)
+- [X] Curaçao (home!)
+- [X] Trinidad
 - [ ] ~~Vancouver~~
